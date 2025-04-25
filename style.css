@@ -8,4 +8,19 @@
     color:white;
     display:flex;
     justify-content: space-around;
+    align-items:center;
+   
+
+.escola-imagem{ 
+   width: 30%
+   margin:0 16px;
+   font-size:24px;
 }
+   
+
+
+
+
+
+
+background-image:linear-gradient
